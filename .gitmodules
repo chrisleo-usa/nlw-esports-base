@@ -1,0 +1,9 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/chrisleo-usa/nlw-esports-web
+[submodule "mobile"]
+	path = mobile
+	url = https://github.com/chrisleo-usa/nlw-esports-mobile
+[submodule "server"]
+	path = server
+	url = https://github.com/chrisleo-usa/nlw-esports-server
